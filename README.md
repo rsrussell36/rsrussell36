@@ -7,7 +7,7 @@
 I'm Abu Sayed Russell, a <a href="https://github.com/rsrussell36"><img align="center" src="https://img.shields.io/badge/Full%20Stack-Engineer-brightgreen"/></a> with a 4+ years of experience. I am the fastest and efficient to work and can provide the best solutions possible with easy to understand.
 My skill and interests include Php, WordPress Theme & Plugin, Laravel, CI, JavaScript and React.
 I am diligent and always try to learn more about the field for both retain current and to expand my skills which is relevant with my work. 
-I have already done the  ........ projects.
+<br>
 Thank you for your valuable time and consideration.
 </p>
 <small>❯❯ You can follow him on: ↓</strong>
