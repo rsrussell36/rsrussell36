@@ -4,9 +4,11 @@
 
 ### Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Abu Sayed Russell is a <a href="https://github.com/rsrussell36"><img align="center" src="https://img.shields.io/badge/Senior%20Wordpress-Developer-brightgreen"/></a> at <a href="https://creativestheme.com">LastExpand</a>
-and He has enriched with a lot of experience in WordPress Theme, Wordpress Plugin , Laravel and React.
-
+I'm Abu Sayed Russell, a <a href="https://github.com/rsrussell36"><img align="center" src="https://img.shields.io/badge/Full%20Stack-Engineer-brightgreen"/></a> with a 4+ years of experience. I am the fastest and efficient to work and can provide the best solutions possible with easy to understand.
+My skill and interests include Php, WordPress Theme & Plugin, Laravel, CI, JavaScript and React.
+I am diligent and always try to learn more about the field for both retain current and to expand my skills which is relevant with my work. 
+I have already done the  ........ projects.
+Thank you for your valuable time and consideration.
 </p>
 <small>❯❯ You can follow him on: ↓</strong>
 
