@@ -10,7 +10,7 @@ I am diligent and always try to learn more about the field for both retain curre
 <br>
 Thank you for your valuable time and consideration.
 </p>
-<small>❯❯ You can follow me on: ↓</small>
+
 <small>❯❯ You can contact with me on: ↓</small>
 
 
