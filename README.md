@@ -4,19 +4,21 @@
 
 ### Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-I'm Abu Sayed Russell, a <a href="https://github.com/rsrussell36"><img align="center" src="https://img.shields.io/badge/Full%20Stack-Engineer-brightgreen"/></a> with a 4+ years of experience. I am the fastest and efficient to work and can provide the best solutions possible with easy to understand.<br>
+I'm <strong> Abu Sayed Russell</strong>, a <a href="https://github.com/rsrussell36"><img align="center" src="https://img.shields.io/badge/Full%20Stack-Engineer-brightgreen"/></a> with a 4+ years of experience. I am the fastest and efficient to work and can provide the best solutions possible with easy to understand.<br>
 My skill and interests include Php, WordPress Theme & Plugin, Laravel, CI, JavaScript and React.
 I am diligent and always try to learn more about the field for both retain current and to expand my skills which is relevant with my work. 
 <br>
 Thank you for your valuable time and consideration.
 </p>
-<small>❯❯ You can follow him on: ↓</strong>
+<small>❯❯ You can follow me on: ↓</strong>
+<small>❯❯ You can contact with me on: ↓</strong>
 
 
-[![Facebook](https://img.shields.io/badge/Facebook-Abu%20Sayed%20Russell-3b5998)][f] [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abu%20Sayed%20Russell-0e76a8)][l] [![Twitter](https://img.shields.io/twitter/follow/abusayedrussell?label=%40abusayedrussell&style=social)][t] [![Github](https://img.shields.io/github/followers/rsrussell36?style=social&label=Follow)][g]
+[![Facebook](https://img.shields.io/badge/Facebook-Abu%20Sayed%20Russell-3b5998)][f] [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abu%20Sayed%20Russell-0e76a8)][l] [![Twitter](https://img.shields.io/twitter/follow/abusayedrussell?label=%40abusayedrussell&style=social)][t] [![Github](https://img.shields.io/github/followers/rsrussell36?style=social&label=Follow)][g] [![Gmail](https://img.shields.io/badge/E--Mail-abusayedusell%40gmail.com-blue)][gm]
 
 [f]: https://www.facebook.com/abu.sayed.russell.036/
 [l]: https://www.linkedin.com/in/abusayedrussell/
 [t]: https://twitter.com/abusayedrussell
 [g]: https://github.com/rsrussell36
+[gm]: mailto:abusayedrussell@gmail.com
 
